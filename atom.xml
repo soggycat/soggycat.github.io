@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Grant West]]></title>
   <link href="http://soggycat.github.io/atom.xml" rel="self"/>
   <link href="http://soggycat.github.io/"/>
-  <updated>2014-07-02T09:49:13+01:00</updated>
+  <updated>2014-07-02T10:26:43+01:00</updated>
   <id>http://soggycat.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Grant West]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>

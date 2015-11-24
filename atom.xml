@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Grant West]]></title>
+  <link href="http://soggycat.github.io/atom.xml" rel="self"/>
+  <link href="http://soggycat.github.io/"/>
+  <updated>2015-11-24T18:51:02+00:00</updated>
+  <id>http://soggycat.github.io/</id>
+  <author>
+    <name><![CDATA[Grant West]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Devops Days]]></title>
+    <link href="http://soggycat.github.io/blog/2014/07/02/new-post/"/>
+    <updated>2014-07-02T09:48:41+01:00</updated>
+    <id>http://soggycat.github.io/blog/2014/07/02/new-post</id>
+    <content type="html"><![CDATA[<p>The first DevOpsDays Barcelona is scheduled for October 10th and 11th of 2013, registration is currently open, and of course we already made the call for papers available for all of you, who want to participate not only as a atendee on the event.</p>
+
+<p>If you register for the event before September 2nd, using the coupon WELOVEDEVOPS you will get a 15% discount on your tickets, so what are you waiting for?.</p>
+]]></content>
+  </entry>
+  
+</feed>

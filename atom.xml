@@ -4,7 +4,7 @@
   <title><![CDATA[Grant West]]></title>
   <link href="http://soggycat.github.io/atom.xml" rel="self"/>
   <link href="http://soggycat.github.io/"/>
-  <updated>2015-11-24T18:51:02+00:00</updated>
+  <updated>2015-11-27T10:45:49+00:00</updated>
   <id>http://soggycat.github.io/</id>
   <author>
     <name><![CDATA[Grant West]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Sync-Octopress-on-multiple-machines]]></title>
+    <link href="http://soggycat.github.io/blog/2015/11/27/sync-octopress-on-multiple-machines/"/>
+    <updated>2015-11-27T10:38:36+00:00</updated>
+    <id>http://soggycat.github.io/blog/2015/11/27/sync-octopress-on-multiple-machines</id>
+    <content type="html"><![CDATA[<p>1.Follow normal setup process</p>
+
+<p>git clone git://github.com/imathis/octopress.git octopress
+cd octopress    # If you use RVM, You&rsquo;ll be asked if you trust the .rvmrc file (say yes).
+ruby &mdash;version  # Should report Ruby 1.9.3
+gem install bundler
+bundle install
+rake install
+rake setup_github_pages
+2.Pull latest updates from remote branch to sync new machine with latest octopress</p>
+
+<p>cd octopress\
+git pull origin source
+cd _deploy
+git pull origin master
+Now you can use rake to deploy new blogs from another machine!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Devops Days]]></title>
